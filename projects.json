@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Business Dashboard",
+        "description": "An interactive dashboard designed to visualize and understand business data through clear analytics and insights.",
+        "technologies": "Python, Streamlit, Pandas, Plotly",
+        "github": "https://github.com/ArthiSathishkumar/bussiness-dashboard",
+        "live": "https://bussiness-dashboard-ydgnjbs5uhwvvzhdx5h9sn.streamlit.app/",
+        "image": ""
+    },
+    {
+        "name": "AI Auto Smart Finance Manager",
+        "description": "An AI-powered finance management application for tracking transactions, analyzing spending, and identifying financial waste.",
+        "technologies": "Python, Streamlit, Pandas, AI",
+        "github": "https://github.com/ArthiSathishkumar/AI-Auto-Finance-Manager",
+        "live": "https://ai-auto-finance-manager-9hbantsdjnxqzduxjah2c7.streamlit.app/",
+        "image": ""
+    },
+    {
+        "name": "Skill Gap Analyzer",
+        "description": "A career-focused application that compares skills with target job requirements and provides missing skills, ranking, and learning roadmap insights.",
+        "technologies": "Python, Streamlit, Data Science",
+        "github": "https://github.com/ArthiSathishkumar/skill-gap-analyser",
+        "live": "https://skill-gap-analyser-hg9jurdi2tdb3bitjj2wxq.streamlit.app/",
+        "image": ""
+    },
+    {
+        "name": "Smart AutoML Platform",
+        "description": "An automated machine learning platform that processes uploaded datasets and provides model evaluation and performance insights.",
+        "technologies": "Python, Streamlit, Pandas, NumPy, Scikit-learn",
+        "github": "https://github.com/ArthiSathishkumar/data-process",
+        "live": "https://data-process-c4ntmm9qdj93dtcdwqmdam.streamlit.app/",
+        "image": ""
+    }
+]
